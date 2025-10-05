@@ -1,0 +1,8 @@
+# Este archivo debe ser generado con:
+# pip freeze > requirements.txt
+
+# Ejemplo de dependencias comunes:
+Django==5.2.7
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+# ...otras dependencias de tu entorno...
